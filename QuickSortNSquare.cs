@@ -1,3 +1,9 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace ConsoleApplication1
 {
     // reference : http://www.bluesharktutorials.com/2013/08/quick-sort-algorithm-with-c-sharp-program-code.html

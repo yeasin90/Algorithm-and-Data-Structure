@@ -1,0 +1,8 @@
+bangla algo tut : http://www.shafaetsplanet.com/planetcoding/?cat=35
+algo problems : https://www.hackerrank.com/domains/algorithms/warmup
+step by step alog : http://interactivepython.org/runestone/static/pythonds/index.html
+best video tutorial : https://www.youtube.com/user/mycodeschool
+practice Problems : http://algorithms.tutorialhorizon.com/
+
+algo quiz : http://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/
+algo quiz : http://geeksquiz.com/algorithms-analysis-of-algorithms-question-3/
